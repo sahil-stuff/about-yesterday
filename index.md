@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-You can use the [editor on GitHub](https://github.com/sahil-stuff/about-yesterday/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
 
-### Markdown
+    <title>About Yesterday</title>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<style>
+    body {
+        font-family: 'Indie Flower', cursive;
+        background-image: url("https://img.freepik.com/free-vector/green-floral-background_53876-67015.jpg?size=626&ext=jpg&ga=GA1.2.912004493.1616253916");
+        background-repeat: no-repeat;
+        background-size: 100vh;
+        
 
-# Header 1
-## Header 2
-### Header 3
+    }
+</style>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</head>
+<body>
+    
 
-### Jekyll Themes
+    <div class="container">
+        <section style="margin-top: 30%;" >
+            <div class="row">
+                <div class="col-md-3 col-sm-3"></div>
+                <div class="col-md-3 offset-md-3">
+                    <h1 style="font-family: 'Indie Flower', cursive; text-align: center;" > Hi &nbsp; 🙇, </h1>  
+                </div>
+                <div class="col-md-6 col-sm-6"></div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-3 col-sm-3"></div>
+                <div class="col-md-3 col-sm-3" style="justify-content: left;">
+                    <p> <a href="wanna_talk.html"> It is about yesterday, you mad? want to talk to.</a></p>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <p> <a href=""> If not, or dont wanna talk, just puch it here. </a></p>
+                </div>
+                <div class="col-md-3 col-sm-3"></div>
+            </div>
+                      
+        </section>
+      
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sahil-stuff/about-yesterday/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+    </div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+</body>
+</html>
